@@ -2,6 +2,7 @@
 
 var temperature;
 
+
 while (isNaN(Number(temperature))==true)
  {
   
